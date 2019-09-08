@@ -1,0 +1,7 @@
+E:\Estudos\Github\TesteDotNet\TesteDotNet\TesteDotNet\bin\Debug\TesteDotNet.exe.config
+E:\Estudos\Github\TesteDotNet\TesteDotNet\TesteDotNet\bin\Debug\TesteDotNet.exe
+E:\Estudos\Github\TesteDotNet\TesteDotNet\TesteDotNet\bin\Debug\TesteDotNet.pdb
+E:\Estudos\Github\TesteDotNet\TesteDotNet\TesteDotNet\obj\Debug\TesteDotNet.csprojAssemblyReference.cache
+E:\Estudos\Github\TesteDotNet\TesteDotNet\TesteDotNet\obj\Debug\TesteDotNet.csproj.CoreCompileInputs.cache
+E:\Estudos\Github\TesteDotNet\TesteDotNet\TesteDotNet\obj\Debug\TesteDotNet.exe
+E:\Estudos\Github\TesteDotNet\TesteDotNet\TesteDotNet\obj\Debug\TesteDotNet.pdb
